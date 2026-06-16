@@ -1,0 +1,124 @@
+.logo{
+    font-size: 35px;
+    color: #2563eb;
+    margin:0
+}
+
+.topbar{
+    background-color: white;
+    border-bottom: 1px solid gainsboro;
+    padding: 20px 16px;
+}
+
+.body-screen{
+    background-color: rgb(237, 242, 255);
+}
+
+.board-title{
+    margin: top 0px;
+    margin-left: 400px;
+    margin-bottom: 8px;
+    font-size: 30px;
+}
+
+.board-desc{
+    margin: 0px;
+    margin-left: 400px;
+    color:gray;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.post-item{
+    background-color: white;
+    border: 2px solid #dddddd;
+    border-radius: 12px;
+    padding: 20px;
+    margin-left:400px;
+    margin-right: 400px;
+    margin-bottom:20px;
+    margin-top: 40px;
+}
+
+.post-item-title{
+    margin-top:0px;
+    margin-bottom: 14px;
+    font-size: 22px;
+}
+
+.post-item-summary{
+    margin-top: 0px;
+    margin-bottom: 14px;
+    color:gray;
+}
+
+.post-item-info{
+    margin-right: 12px;
+    font-size: 14px;
+    color:#777;
+}
+
+.post-item-cate{
+    display: inline-block;
+    background-color: #e8f0ff;
+    color: #2563eb;
+    padding:5px 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+a:hover{
+    color: #2563eb;
+}
+
+a {
+    text-decoration:none;
+    color:black
+}
+
+.category {
+    display: inline-block;
+    background-color: #e8f0ff;
+    color: #2563eb;
+    padding:5px 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.post-title{
+    margin-bottom: 12px;
+    font-size: 30px;
+
+}
+
+.post-info{
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    color:#666;
+    font-size:14px;
+}
+
+.post-content p{
+    margin-bottom: 16px;
+}
+
+.post-chat{
+    background-color: white;
+    border: 2px solid #dddddd;
+    border-radius: 12px;
+    padding: 20px;
+    margin-left:40px;
+    margin-right: 40px;
+    margin-bottom:20px;
+    margin-top: 40px;
+}
+
+.btn{
+    display: inline-block;
+    margin-top:10px;
+    background-color: #f9fafb;
+    padding: 10px 16px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
